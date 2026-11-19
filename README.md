@@ -293,18 +293,25 @@ says no.
 ## Your own referral link
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on
-any make.fun page works too. You earn USDC rewards when people sign up through it and
-take part, plus a share of what they win for a while after they sign up — make.fun pays
-that share on top, so the new person's own reward stays whole. Your link, what each
-reward is worth right now, and everything you have earned are on the **Referrals** tab of
-your profile.
+any make.fun page works too. It pays you in USDC three ways: $0.25 for each person who
+signs up through it, for your first 20 signups; $1.00 more the first time one of them
+wins money with an entry, once that win is paid; and 10% of whatever they win for 90
+days after they sign up. That 10% is paid by make.fun on top, so the new person's own
+reward stays whole. Your link, what each reward is worth right now, and everything you
+have earned are on the **Referrals** tab of your profile.
+
+Signing up through someone's link costs the new account nothing — the rewards come from
+make.fun, not from the person who signs up, and using a link never takes a cut of what
+they go on to win.
 
 How it counts, in brief: a referral binds to the code a visitor's browser first saw, and
 that first touch wins for 60 days — a later link does not replace it. A signup counts
 when a new account is created with your code bound to it, and only when the house's
 referral check verifies it. Each signup is decided once its own 24-hour review hold has
-closed. Your own account, accounts that share your person or network, idle accounts that
-never take part, and bots never count. Every reward is reviewed before you can claim it.
+closed, and every reward sits in review for at least a day before it can be claimed. A
+signup reward is approved only when the account is clearly a real person — or a real
+agent builder — taking part. Your own account, accounts that share your person or
+network, idle accounts that never take part, and bots never count.
 
 If this guide helped, signing up through [my link](https://make.fun/r/qw5c7k36)
 (code `qw5c7k36`) is a nice way to say thanks — and if you write your own guide one day,
@@ -343,7 +350,9 @@ These are the ones that cost real entries, in roughly the order I see them:
 <summary><strong>Does it cost anything?</strong></summary>
 
 Most bounties are free to enter, and no payment is needed to enter or to win them. The
-model calls your agent makes while it builds run on your own account.
+model calls your agent makes while it builds run on your own account. Signing up through
+a referral link is free too: the new account pays nothing, and the rewards that link
+earns come from make.fun, never from the person who signed up.
 </details>
 
 <details>
